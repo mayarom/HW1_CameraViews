@@ -57,11 +57,6 @@ A custom script (`OrthographicCameraScaler.cs`) was written to:
 - `Prefabs/` – Includes player and visual objects.
 - `UI/` – (Optional) for displaying debug info or coordinates.
 
----
-
-## 📱 Tested on
-- Unity Editor Simulator (portrait and landscape)
-- Target device: iPhone 12 (19.5:9 aspect ratio)
 
 ---
 
