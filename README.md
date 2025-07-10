@@ -1,6 +1,9 @@
 # HW1_CameraViews 🎥
 A Unity project demonstrating camera behavior and screen adaptation in a 2D mobile game.
 
+**Game link on Itch.io:**
+https://mayarom.itch.io/hw1-cameraviews 
+
 ## 🎯 Project Goal
 This project was created as part of **Homework 1 - Section B** in the Game Development course.  
 It demonstrates:
